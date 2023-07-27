@@ -27,15 +27,13 @@ The `Crowdsale` contract created has capability to manage the entire crowdsale p
  - 
 ## Libraries and Technologies Used
 
-- Pandas library -  a Python library for data analysis. 
+- Remix IDE
 
-- SQLAlchemy -SQL library for Python
+- Solidity -used to build the token
 
-- hvPlot - visualization library. 
-
-- Voilà library - to deploy the Juypter library as a web application
-
-- Jupyter notebook
+- MetaMask browser extension
+  
+- Ganashe 
 
 #### Results 
 
