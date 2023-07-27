@@ -38,25 +38,26 @@ The `Crowdsale` contract created has capability to manage the entire crowdsale p
 #### Results 
 
 1 After deploying  the crowdsale to a local blockchain with Remix, MetaMask  the following were the results of the contract compilation, depoloyment and testing the functionality of the crowdsale:
- 
- A.  Contract Deployement 
+A. Contract Compilation
+
+![KaseiCoinCrowdsale sol  sol compiled](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/0abc096d-fd0f-42cc-8389-ca614e0f1e4a)
+
+![Kasei  sol compiled](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/bdc6d10b-be14-4f5d-816d-8b3069923914)
+
+B.  Contract Deployement 
 ![crowdsaleDeploymentGanache](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/afbb1126-9867-45b5-a5ba-64384a293800)
 
 ![crowdsaleDeploymentMetaMask](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/d09d0a57-2cfb-498d-9954-46a148bbae2d)
 
 ![crowdsaleDeploymentRemix](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/b79fc03b-5e39-4b3d-ade6-05d9483d6e28)
 
-B: Contract Compilation
 
-![Kasei  sol compiled](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/3ed55983-b8a6-490e-8e72-9a2ac0ecb3b0)
-
-![KaseiCoinCrowdsale sol  sol compiled](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/0abc096d-fd0f-42cc-8389-ca614e0f1e4a)
-
-
- C Purchase of Coin 
+ C. Token Purchase 
 ![purchaseTokenGanache](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/3f7f1ed6-923c-429e-9f19-d191296b3107)
 
 ![purchaseTokenRemix](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/de9683e4-84ce-4750-bfcd-82680d90906e)
+
+
 
 
 
