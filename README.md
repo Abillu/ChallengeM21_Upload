@@ -22,7 +22,7 @@ The `Crowdsale` contract createD has capability to manage the entire crowdsale p
 
  After deploying  the crowdsale to a local blockchain with Remix, MetaMask 
 
-1. The following are the results from testing  the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances associated with those accounts.
+1. The following are the results from testing  the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances associated with those accountsin Ganache, Remix and MeatMask.
 
 ![crowdsaleDeploymentGanache](https://github.com/Abillu/ChallengeM21_Upload/assets/126644613/afbb1126-9867-45b5-a5ba-64384a293800)
 
