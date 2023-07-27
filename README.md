@@ -24,7 +24,18 @@ The `Crowdsale` contract created has capability to manage the entire crowdsale p
  - set a time limit for your crowdsale by adding an opening time and a closing time.
 
  - set a goal amount of ether to raise. If the goal is not reached, it is common practice to refund your investors. This contract adds this capability to a crowdsale
+ - 
+## Libraries and Technologies Used
 
+- Pandas library -  a Python library for data analysis. 
+
+- SQLAlchemy -SQL library for Python
+
+- hvPlot - visualization library. 
+
+- Voilà library - to deploy the Juypter library as a web application
+
+- Jupyter notebook
 
 #### Results 
 
