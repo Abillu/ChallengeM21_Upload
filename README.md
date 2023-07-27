@@ -1,5 +1,5 @@
 
-# KaseiCoin Crowdsale  Token Crowdsale
+# KaseiCoin Token Crowdsale
 
 ## Overview
 
